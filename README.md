@@ -1,4 +1,4 @@
-This is ascolour. website UI clone built using HTML, CSS
+This is Ecommerce website UI clone built using HTML, CSS
 
 
 
